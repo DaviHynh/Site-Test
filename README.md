@@ -1,2 +1,2 @@
 # Site-Test
-Testing out github pages and verifying a GPG key for now.
+This branch contains source files for a default react app.
