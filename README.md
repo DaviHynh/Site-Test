@@ -1,2 +1,2 @@
 # Site-Test
-Testing out github pages and verifying a GPG key for now.
+Default react app on github pages: [https://davihynh.github.io/Site-Test/](https://davihynh.github.io/Site-Test/)
